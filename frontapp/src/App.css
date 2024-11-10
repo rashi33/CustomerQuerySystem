@@ -1,0 +1,33 @@
+.s{
+    
+    right:0px;
+    bottom:10px;
+    text-align: right;
+}
+.text-justify{
+    text-align: justify;
+}
+
+.vh-93{
+    height:93vh;
+}
+
+.vh-7{
+    height: 7vh;
+}
+
+
+  
+  .gradient-background {
+    background: linear-gradient(to right, #000000, #434343); /* Dark gradient */
+    /* Optional: for rounded corners */
+  }
+  
+
+  .bg-succ{
+    background-image: url('component/img/back.png');
+    background-size: cover; /* Adjusts the image size to cover the entire background */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+}
+  
